@@ -1,8 +1,13 @@
-## Olá! Eu sou o Thiago Farias!!!
+## E ai 
+👨‍💻 Meu nome é Thiago Farias <p>
+📚 Cursando Analise e Desenvolvimento de Sistemas na Universidade Estacio de Sá (UNESA)<p>
+🧩 Focado no curso do Programador BR
+📌 Poções - BA ! <img align="center" alt="thygo10-HTML" height="30" width="30" src="https://user-images.githubusercontent.com/84402079/127421395-9f69b231-e498-47d0-8f9a-3f256915b7cf.png">
+<br><br>
 <div>
   <a href="https://github.com/thygo10">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thygo10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thygo10&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thygo10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thygo10&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
