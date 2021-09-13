@@ -32,4 +32,4 @@
 	
   ![Snake animation](https://github.com/thygo10/thygo10/blob/output/github-contribution-grid-snake.svg)
 
-  ![TOP Linguagens]
+ 
