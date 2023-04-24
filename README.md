@@ -1,8 +1,8 @@
 ## Hello!!! 🤖
-👨‍💻 Meu nome é Thiago Farias <p>
-📚 Cursando Analise e Desenvolvimento de Sistemas na Universidade Estacio de Sá (UNESA)<p>
-🧩 Aguardando o Explorer da RocketSeat<p>
-📌 Poções - BA ! <img align="center" alt="thygo10-HTML" height="30" width="30" src="https://user-images.githubusercontent.com/84402079/127421395-9f69b231-e498-47d0-8f9a-3f256915b7cf.png">
+👨‍💻 My name is Thiago Farias <p>
+📚 Studying Systems Analysis and Development at Estacio de Sá University (UNESA)<p>
+🚀 Finishing the RocketSeat Explorer course<p>
+📌 Bahia - 🇧🇷 ! <img align="center" alt="thygo10-HTML" height="30" width="30" src="https://user-images.githubusercontent.com/84402079/127421395-9f69b231-e498-47d0-8f9a-3f256915b7cf.png">
 <br><br>
 
   
