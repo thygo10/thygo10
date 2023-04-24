@@ -4,11 +4,7 @@
 🧩 Aguardando o Explorer da RocketSeat<p>
 📌 Poções - BA ! <img align="center" alt="thygo10-HTML" height="30" width="30" src="https://user-images.githubusercontent.com/84402079/127421395-9f69b231-e498-47d0-8f9a-3f256915b7cf.png">
 <br><br>
-<div>
-  <a href="https://github.com/thygo10">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thygo10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thygo10&layout=compact&theme=dracula"/>
-</div>
+
   
 <div style="display: inline_block"><br>
   <img align="center" alt="thygo10-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
